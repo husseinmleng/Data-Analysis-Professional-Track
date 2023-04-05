@@ -1,0 +1,50 @@
+
+Project title : Data Analyst needed to perform Statistical Analysis on small pilot psychological treatment dataset
+
+Project Description : Data Analyst needed to perform statistical analysis in excel on small psychological treatment dataset and determine if treatment is significant. If they are significant, then what variables make it significant? A regression analysis will also need to be performed in this circumstance. Visualizations will also need to be constructed to demonstrate the results. Freelancer will receive datasets (2) with instructions/breakdown of terminology
+------------------------------------------------------------------------------------------
+My Proposal :-
+Profile: Data Analytics
+How do you want to be paid? : By project
+Bid/Budget
+Total amount the client will see on your proposal : $25.00
+I'll Receive
+The estimated amount you'll receive after service fees : $21.00
+
+Cover letter :-
+Hello! See that you are looking for a python developer to perform Statistical Analysis on a small pilot psychological treatment dataset. I can help with that, and I can start right away!
+
+I'm an excellent fit for this role as I worked with many various datasets through my journey to learn machine learning. for example I already practiced on many real-world datasets Such as IBDM movies  , fraud detection and adults income datasets and many others once you gave me the opportunity, I like to prove my self by delivering what is promised.
+
+if we were to get started, here is how I would approach this project :
+1, Chat with you to determine the pain points and processes that you need to perform
+2. Explore the data and gain insights
+3. apply regression models the best fits your data
+4. Evaluate the model performance and test the results from previous steps
+5. Over time, we'll continue to try to find ways that make your project more robust and improve
+
+*********************************************************************************************
+Project Details €30.00 – 250.00 EUR
+
+Project details : Hello i have few questions that needs to be solved in Python
+Skills Required
+Python - Machine Learning (ML) - Statistical Analysis - Data Science - Data Analysis
+-------------------------------------------------------------------------------------------
+My Proposal :-
+MY bid : 50.00$ in 7 days
+
+Hello! See that you are looking for a python expert with machine learning and Data analysis skills , I can help with that, and I can start right away!
+
+I'm an excellent fit for this role. my goal is to help you build the project effectively.
+
+I already worked on real-world machine and deep learning projects such as house price prediction , Fraud detection classification and Dimensionality reduction and many others I've achieved over 90% validation accuracy for many of them on different tasks like medical image classification and Wheat rust classification once you gave me the opportunity, I like to prove my self by delivering what is promised.
+
+if we were to get started, here is how I would approach this project :
+1, Chat with you to determine the pain points and processes that you need in your project
+2. Explore the data you have in your project
+3. Try to find the best machine learning models that best perform on the validation
+part of your data
+4. Evaluate the model performance and test the results
+5. Over time, we'll continue to try to find ways that make your project more robust and improve
+
+Do you have any questions for me?
