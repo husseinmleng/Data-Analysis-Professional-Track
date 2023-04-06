@@ -17,15 +17,15 @@ Each project has its own directory in this repository, which contains the projec
 ## Requirements
 To run the Python projects, you will need to have Python 3 installed on your computer. You will also need to install the following libraries:
 
-pandas
-numpy
-matplotlib
-seaborn
-datetime
-csv
-io
-requests
-scipy
+- pandas
+- numpy
+- matplotlib
+- seaborn
+- datetime
+- csv
+- io
+- requests
+- scipy
 
 # Acknowledgements
 I would like to thank Udacity for providing this comprehensive program and all the instructors and mentors who helped me throughout this journey.
